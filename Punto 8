@@ -129,7 +129,7 @@ CREATE TABLE "Log_Vuelo" (
   "Longitud" varchar2(250),
   "Altitud" integer,
   "Velocidad" integer,
-  "Dirreccion" integer
+  "Direccion" integer
 );
 
 --Create Sequences and Triggers
