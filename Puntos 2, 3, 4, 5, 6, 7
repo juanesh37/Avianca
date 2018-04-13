@@ -1,6 +1,3 @@
-Este es el Primer trabajo de Administración de Bases de datos realizado por Juan Esteban Herrera Morales.
-Recuerde profesor que este trabajo lo realizo sólo. Recién hago mi primer commit ya que primero hice los querys y ya los voy a 
-ir pegando acá.
 
 -- Create 2 Tablespaces
 -- a. first one with 2 Gb and 1 datafile, tablespace should be named " avianca "
